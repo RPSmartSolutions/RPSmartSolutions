@@ -44,7 +44,7 @@ Cofinancing DB Reports: An innovative solution for producing reports using Cogno
 COMS: A comprehensive tool for managing funds, bank projects, bank products, cofinancing , agreements, troubleshooting and debugging web applications, enhancing performance and user experience.
 
 
-### Get in Touch
+### 🔗 Get in Touch
 I am always looking for new ideas and opportunities to make a positive impact through technology. If you are interested in my services or have any questions, please feel free to reach out.
 
 Email: inquiries@rpcreativestudio.com
