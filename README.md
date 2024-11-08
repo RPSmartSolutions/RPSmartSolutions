@@ -38,7 +38,9 @@ I invite you to explore my repositories, which showcase a range of projects I ha
 ### 👔 Highlighted Projects
 
 COMS TF Workflow: A robust HCL Domino-based application designed to streamline business processes using Xpages/Java/Javascript/HTML on the HCL platform.
+
 Cofinancing DB Reports: An innovative solution for producing reports using Cognos, PowerBI, SQL, Oracle and HTML.
+
 COMS: A comprehensive tool for managing funds, bank projects, bank products, cofinancing , agreements, troubleshooting and debugging web applications, enhancing performance and user experience.
 
 
