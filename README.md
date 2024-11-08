@@ -15,19 +15,19 @@ Collaboration: Working closely with clients and the tech community to achieve co
 My Expertise
 I bring a wealth of experience in various technologies and methodologies. Here are some of the key areas I specialize in:
 
-Xpages Development
-HCL Domino
-JavaScript
-CSS and HTML
-Bootsrap
-Database Management
-Reports
-PowerBI and Cognos
-Oracle and MySQL
-Python
-Application Design
-Troubleshooting and Debugging
-Scrum Methoddologies
+- Xpages Development
+- HCL Domino
+- JavaScript
+- CSS and HTML
+- Bootsrap
+- Database Management
+- Reports
+- PowerBI and Cognos
+- Oracle and MySQL
+- Python
+- Application Design
+- Troubleshooting and Debugging
+- Scrum Methoddologies
 
 My Projects
 I invite you to explore my repositories, which showcase a range of projects I have developed. These projects highlights  my commitment to quality and my ability to solve complex problems efficiently. 
