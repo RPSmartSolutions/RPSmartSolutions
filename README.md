@@ -42,8 +42,7 @@ COMS: A comprehensive tool for managing funds, bank projects, bank products, cof
 Get in Touch
 I am always looking for new ideas and opportunities to make a positive impact through technology. If you are interested in my services or have any questions, please feel free to reach out.
 
-Email: inquiries@rpsmartsolutions.com
-Website: www.rpsmartsolutions.com
+Email: inquiries@rpcreativestudio.com
 
 Thank you for visiting RPSmartSolutions on Github! I look forward to connecting with you and exploring how I can help you achieve your business goals through innovative technology solutions.
 
