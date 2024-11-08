@@ -1,7 +1,7 @@
 # Welcome
 About Me
 
-Welcome to RPSmartSolutions! I am a dedicated freelance developer passionate about creating innovative and efficient software solutions. My expertise lies in delivering high-quality, open-source and enterprise projects that address real-world challenges and enhance business operations. With a strong focus on innovation and excellence, I strive to contribute to the tech community and provide valuable resources to clients and peers.
+Hi, Welcome to RPSmartSolutions! ## ✋ My Name is [RP 👈]And I A Full Stack/Web/Software/Reports DeveloperI am a dedicated freelance developer passionate about creating innovative and efficient software solutions. My expertise lies in delivering high-quality, open-source and enterprise projects that address real-world challenges and enhance business operations. With a strong focus on innovation and excellence, I strive to contribute to the tech community and provide valuable resources to clients and peers.
 
 My Mission
 
