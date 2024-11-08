@@ -10,10 +10,10 @@ I am a dedicated freelance developer passionate about creating innovative and ef
 
 At RPSmartSolutions, my mission is to empower businesses with cutting-edge smart technology solutions that drive growth and efficiency. I am committed to drive:
 
-Innovation: Developing creative and forward-thinking solutions to complex problems.
-Quality: Ensuring my projects are robust, reliable, and scalable.
-Open Source: Contributing to the open-source community by sharing my knowledge and projects.
-Collaboration: Working closely with clients and the tech community to achieve common goals.
+- Innovation: Developing creative and forward-thinking solutions to complex problems.
+- Quality: Ensuring my projects are robust, reliable, and scalable.
+- Open Source: Contributing to the open-source community by sharing my knowledge and projects.
+- Collaboration: Working closely with clients and the tech community to achieve common goals.
 
 ### 👔 My Expertise
 I bring a wealth of experience in various technologies and methodologies. Here are some of the key areas I specialize in:
