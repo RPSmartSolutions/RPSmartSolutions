@@ -1,7 +1,7 @@
 # Welcome to RPSmartSolutions! 
 👔 About Me
 
-### My Name is [RP 👈](https://rpcreativestudio.com/#/)  And I A Full Stack/Web/Software/Reports Developer
+### My Name is [RP 👈](https://rpcreativestudio.com/#/)  And I'm a Full Stack/Web/Software/Reports Developer
 
 I am a dedicated freelance developer passionate about creating innovative and efficient software solutions. My expertise lies in delivering high-quality, open-source and enterprise projects that address real-world challenges and enhance business operations. With a strong focus on innovation and excellence, I strive to contribute to the tech community and provide valuable resources to clients and peers.
 
@@ -46,7 +46,7 @@ COMS: A comprehensive tool for managing funds, bank projects, bank products, cof
 ### 🔗 Get in Touch
 I am always looking for new ideas and opportunities to make a positive impact through technology. If you are interested in my services or have any questions, please feel free to reach out.
 
-Email: inquiries@rpcreativestudio.com
+Email: admins@rpcreativestudio.com
 
 Thank you for visiting RPSmartSolutions on Github! I look forward to connecting with you and exploring how I can help you achieve your business goals through innovative technology solutions.
 
